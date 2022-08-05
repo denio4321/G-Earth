@@ -1,3 +1,7 @@
+.root {
+    -fx-font-family: sans-serif;
+}
+
 #titlebar-main-container {
     -fx-body-color : transparent;
     -fx-background-radius: 15;
